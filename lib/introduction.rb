@@ -1,5 +1,4 @@
-#lib/introduction.rb
+lib/introduction.#!/usr/bin/env ruby -wKU
 
-def introduction("Josh")
-  puts "Hi, my name is #{Josh}"
+def introduction
 end
